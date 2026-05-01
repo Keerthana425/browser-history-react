@@ -72,7 +72,10 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots here after running your project)
+<img width="1264" height="740" alt="image" src="https://github.com/user-attachments/assets/10411bb7-5472-4941-8e0a-485ea8037d8d" />
+<img width="1138" height="521" alt="image" src="https://github.com/user-attachments/assets/e4268044-5686-4b69-8118-e9d8a4eefe96" />
+
+
 
 ---
 
