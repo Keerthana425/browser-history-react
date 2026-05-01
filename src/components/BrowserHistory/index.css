@@ -1,0 +1,95 @@
+.maincontanier {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.searchContanier {
+  background-color: #3367d6;
+  background-size: cover;
+  height: 70px;
+  width: 100vw;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+}
+.cardConaitner {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 20px;
+  justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  margin: 40px;
+}
+.eachone {
+  display: flex;
+  flex-direction: column;
+}
+.eachapp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+}
+.inputcontainer {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.imagesearch {
+  background-color: #2850a7;
+  height: 30px;
+  width: 50px;
+  padding: 10px;
+  border-radius: 1px;
+  border-color: #6697ff;
+  border-width: 3px;
+  margin-left: 20px;
+}
+.inputsearch {
+  background-color: #2850a7;
+  height: 30px;
+  width: 300px;
+  padding: 10px;
+  border-radius: 1px;
+  border-color: #6697ff;
+  border-width: 1px;
+}
+.timeheading {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.logoimage {
+  height: 20px;
+  width: 20px;
+}
+.titlecontent {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.domaincontent {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.deleteimage {
+  height: 20px;
+  width: 20px;
+}
+.imagebutton {
+  background-color: #ffffff;
+  border-width: 0px;
+}
+.empty{
+  font-size: 20px;
+  font-family: "Roboto";
+  color: #475569;
+}
